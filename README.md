@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on on projects related to Office JS or any exciting JavaScript and TypeScript development.
 - 📫 How to reach me -> junaid042@outlook.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring new hiking trails and capturing scenic views with my camera.
+- ⚡ Fun fact: I'm passionate about diving into code and crafting innovative solutions that push boundaries in the world of development.
 
 <!---
 junaid042/junaid042 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
