@@ -1,4 +1,4 @@
-- 👋 Hi, I’m M Junaid ->https://github.com/junaid042
+- 👋 Hi, I’m M Junaid
 - 👀 I’m interested in Office JS ->https://github.com/OfficeDev
 - 🌱 I’m currently learning  new frameworks and improving my coding skills in JavaScript.
 - 💞️ I’m looking to collaborate on on projects related to Office JS or any exciting JavaScript and TypeScript development.
