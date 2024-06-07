@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **TypeScript, OffceJS, NodeJS....**
 
-- 💬 Ask me about **react, vue, OfficeJS, NodeJS,**
+- 💬 Ask me about **react, vue, OfficeJS, NodeJS**
 
 - 📫 How to reach me **junaid042@outlook.com**
 
