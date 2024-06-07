@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Junaid</h1>
-<h3 align="center">A passionate full stack developer from Pakistan</h3>
+<h3 align="center">Web Developer with a passion for solving complex problems with innovative solutions
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid042&label=Profile%20views&color=0e75b6&style=flat" alt="junaid042" /> </p>
 
