@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=junaid042" alt="junaid042" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript, OffceJS, NodeJS....**
+- 🌱 I’m currently learning **Everything That I like to learn**
 
-- 💬 Ask me about **react, vue, OfficeJS, NodeJS**
+- 💬 Ask me about **react, Vue, OfficeJS, TypeScript, NodeJS**
 
 - 📫 How to reach me **junaid042@outlook.com**
 
