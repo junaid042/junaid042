@@ -16,7 +16,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/m-junaid-bb848a29a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-junaid-bb848a29a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/m-junaid-bb848a29a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-junaid-bb848a29a/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22285621/m-junaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="m-junaid" height="30" width="40" /></a>
 </p>
 
