@@ -18,6 +18,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/m-junaid-bb848a29a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-junaid-bb848a29a/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22285621/m-junaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="m-junaid" height="30" width="40" /></a>
+  <a href="https://www.upwork.com/freelancers/~01747b941f1b99af96?referrer_url_path=%2Fnx%2Fsearch%2Ftalent%2F" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlXZKw_q7Ip-EuX-7kfTZ8cALsnKkkC1EDw&s" alt="Upwork" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
