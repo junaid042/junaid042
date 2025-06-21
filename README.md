@@ -6,13 +6,13 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=junaid042" alt="junaid042" /></a> </p>
 
-- 🌱 I’m currently learning **Everything That I like to learn**
+- 🌱 I’m currently learning: **Everything That I like to learn**
 
-- 💬 Ask me about **react, Vue, OfficeJS, TypeScript, NodeJS**
+- 💬 Ask me about: **react, Vue, OfficeJS, TypeScript, NodeJS**
 
-- 📫 How to reach me **junaid042@outlook.com**
+- 📫 How to reach me: **junaid042@outlook.com**
 
-- ⚡ Fun fact **I think I am ! funny**
+- ⚡ Fun fact: **My favorite programming language is: “It depends.”**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
