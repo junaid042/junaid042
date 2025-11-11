@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning: **Everything That I like to learn**
 
-- 💬 Ask me about: **React, Vue, OfficeJS, TypeScript, NodeJS, Azure DevOps**
+- 💬 Ask me about: **React, Vue, OfficeJS, NodeJS, Azure DevOps**
 
 - 📫 How to reach me: **junaid042@outlook.com**
 
