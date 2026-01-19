@@ -79,7 +79,7 @@
   </tr>
 </table>
 
-- Office Add-in Packaging: Manifest XML, Self-Signed Certificates, AppSource Submission
+ <p><strong font-size:"24px">Office Add-in Packaging:</strong> Manifest XML, Self-Signed Certificates, AppSource Submission</p>
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaid042&show_icons=true&locale=en&layout=compact" alt="junaid042" /></p>
 
