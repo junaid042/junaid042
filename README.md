@@ -1,3 +1,5 @@
+
+
 <h1 align="center">Hi 👋, I'm Junaid</h1>
 <h3 align="center">Web Developer with a passion for solving complex problems with innovative solutions
 </h3>
@@ -21,65 +23,14 @@
 </p>
  
 
-<h3>🎯 Tech Stack & Tools</h3>
+<h3>🎯 Tech Stack & Tools:</h3>
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Frameworks</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="32"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>DevOps</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="32"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Cloud</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="32"/>
-    </td>
-  </tr>
-
-  <tr>
-    <td><b>Databases</b></td>
-    <td>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="32"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="32"/>
-    </td>
-  </tr>
-</table>
-
- <p><strong font-size:"24px">Office Add-in Packaging:</strong> Manifest XML, Self-Signed Certificates, AppSource Submission</p>
+- Languages: JavaScript, TypeScript, Python, C#, HTML, CSS
+- Frameworks: React, Fluent UI, Vue.js, .NET (Core & VSTO), FastAPI, Django, Express.js, NestJS
+- DevOps: Azure DevOps, GitHub Actions, Docker, Git, Postman
+- Cloud & APIs: Microsoft Graph, SharePoint, OneDrive, Azure, REST, OAuth2, JWT
+- Databases: PostgreSQL, MySQL, MongoDB, Redis
+- Office Add-in Packaging: Manifest XML, Self-Signed Certificates, AppSource Submission
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaid042&show_icons=true&locale=en&layout=compact" alt="junaid042" /></p>
 
