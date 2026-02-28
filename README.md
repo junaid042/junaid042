@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- High-Quality Dark Tech Animation -->
-  <img src="https://raw.githubusercontent.com/saicodes/static-assets/main/gifs/lofi-coding.gif" width="100%" style="border-radius: 10px; opacity: 0.8;" />
+  <!-- Stable Dark Tech Animation -->
+  <img src="https://raw.githubusercontent.com/saicodes/static-assets/main/gifs/cyberpunk-city.gif" width="100%" style="border-radius: 10px;" />
 
   <br/>
 
@@ -10,41 +10,40 @@
 
   <p>
     <img src="https://img.shields.io/badge/SYSTEM-ACTIVE-00d2ff?style=flat-square" />
-    <img src="https://img.shields.io/badge/SPECIALIZATION-MICROSOFT_ECOSYSTEM-0078D4?style=flat-square&logo=microsoft" />
-    <img src="https://img.shields.io/badge/CLOUD-AZURE-0089D6?style=flat-square&logo=microsoftazure" />
+    <img src="https://img.shields.io/badge/SPECIALIZATION-OFFICEJS-0078D4?style=flat-square&logo=microsoft" />
+    <img src="https://img.shields.io/badge/INFRA-AZURE_DEVOPS-0089D6?style=flat-square&logo=azuredevops" />
   </p>
 </div>
 
 ---
 
-### ⚡ Technical Profile
-I am a **Full-Stack Engineer** specializing in the **Microsoft Ecosystem**. I build high-performance bridges between modern web technologies and enterprise productivity tools.
+### ⚡ Professional Focus
+I engineer high-performance solutions within the **Microsoft Ecosystem**, specializing in the intersection of modern web tech and enterprise productivity.
 
 - 🛠️ **Expertise:** Advanced **Office Add-ins (OfficeJS)** and **VSTO** development.
-- ☁️ **DevOps:** Automating enterprise workflows with **Azure DevOps** and **GitHub Actions**.
-- 🏗️ **Architecture:** Engineering scalable systems with **React, NestJS, and .NET Core**.
+- ☁️ **DevOps:** Architecting CI/CD pipelines via **Azure DevOps** and **GitHub Actions**.
+- 🏗️ **Full-Stack:** Building scalable systems with **React, NestJS, and .NET Core**.
 
 ---
 
-### 🛠️ Professional Stack
+### 🛠️ The Arsenal
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,cs,python,react,dotnet,azure,docker,postgres,mongodb,nestjs,postman&theme=dark" />
 </div>
 
 ---
 
-### 📡 Reach Me
+### 📡 Connection
 <div align="center">
   <a href="https://www.linkedin.com/in/m-junaid-bb848a29a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.upwork.com/freelancers/~01747b941f1b99af96"><img src="https://img.shields.io/badge/Upwork-60d91a?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-  <a href="https://www.fiverr.com/junaidazhar62"><img src="https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
   <a href="mailto:junaid042@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br/>
 
 <div align="center">
-  <i>"I don't rely on luck, as I am strong enough to make my own."</i>
+  <i>"A lesson without pain is meaningless. That's because no one can gain anything without sacrificing something else in return."</i>
   <br/>
-  <b>— Sung Jin-Woo (Solo Leveling)</b>
+  <b>— Edward Elric (Fullmetal Alchemist)</b>
 </div>
