@@ -1,47 +1,39 @@
 <div align="center">
-  <!-- Professional Animated Header -->
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Junaid%20Azhar&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+  <!-- High-Quality Dark Tech Animation -->
+  <img src="https://raw.githubusercontent.com/saicodes/static-assets/main/gifs/lofi-coding.gif" width="100%" style="border-radius: 10px; opacity: 0.8;" />
 
   <br/>
-
-  <!-- Subtle Anime Touch: High-quality Lofi Coding Animation -->
-  <img src="https://raw.githubusercontent.com/MaySreay/MaySreay/main/assets/lofi-coding.gif" width="450" alt="Professional Coding" style="border-radius: 10px;" />
 
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;OfficeJS+Specialist;Azure+DevOps+Expert;Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;OfficeJS+Specialist;Azure+DevOps+Architect" alt="Typing SVG" />
   </h1>
+
+  <p>
+    <img src="https://img.shields.io/badge/SYSTEM-ACTIVE-00d2ff?style=flat-square" />
+    <img src="https://img.shields.io/badge/SPECIALIZATION-MICROSOFT_ECOSYSTEM-0078D4?style=flat-square&logo=microsoft" />
+    <img src="https://img.shields.io/badge/CLOUD-AZURE-0089D6?style=flat-square&logo=microsoftazure" />
+  </p>
 </div>
 
 ---
 
-### ⚡ Executive Summary
-A specialized **Full-Stack Developer** focused on the **Microsoft Ecosystem**. I build high-performance web applications and bridge them with enterprise productivity tools via **OfficeJS** and **Azure Cloud**.
+### ⚡ Technical Profile
+I am a **Full-Stack Engineer** specializing in the **Microsoft Ecosystem**. I build high-performance bridges between modern web technologies and enterprise productivity tools.
 
-- 🔭 **Expertise:** Architecting complex Office Add-ins & VSTO solutions.
-- ☁️ **DevOps:** Streamlining deployments with **Azure Pipelines** & GitHub Actions.
-- 🛠️ **Philosophy:** Engineering clean, scalable code for complex business logic.
+- 🛠️ **Expertise:** Advanced **Office Add-ins (OfficeJS)** and **VSTO** development.
+- ☁️ **DevOps:** Automating enterprise workflows with **Azure DevOps** and **GitHub Actions**.
+- 🏗️ **Architecture:** Engineering scalable systems with **React, NestJS, and .NET Core**.
 
 ---
 
-### 🛠️ Technical Arsenal
-
+### 🛠️ Professional Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,cs,python,react,vue,dotnet,express,nestjs,django,fastapi&theme=dark" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=azure,githubactions,docker,postgres,mongodb,mysql,redis,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,python,react,dotnet,azure,docker,postgres,mongodb,nestjs,postman&theme=dark" />
 </div>
 
 ---
 
-### 📊 Performance Metrics
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=junaid042&show_icons=true&theme=tokyonight&border_radius=10&title_color=00d2ff&icon_color=00d2ff" height="180" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=junaid042&layout=compact&theme=tokyonight&border_radius=10&title_color=00d2ff&text_color=ffffff" height="180" />
-</div>
-
----
-
-### 🤝 Strategic Connections
+### 📡 Reach Me
 <div align="center">
   <a href="https://www.linkedin.com/in/m-junaid-bb848a29a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.upwork.com/freelancers/~01747b941f1b99af96"><img src="https://img.shields.io/badge/Upwork-60d91a?style=for-the-badge&logo=upwork&logoColor=white" /></a>
@@ -52,7 +44,7 @@ A specialized **Full-Stack Developer** focused on the **Microsoft Ecosystem**. I
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+  <i>"I don't rely on luck, as I am strong enough to make my own."</i>
   <br/>
-  <i>"My favorite programming language is: <b>'It depends.'</b>"</i>
+  <b>— Sung Jin-Woo (Solo Leveling)</b>
 </div>
