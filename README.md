@@ -1,37 +1,58 @@
+<div align="center">
+  <!-- Professional Animated Header -->
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=200&section=header&text=Junaid%20Azhar&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
+  <br/>
 
-<h1 align="center">Hi 👋, I'm Junaid</h1>
-<h3 align="center">Web Developer with a passion for solving complex problems with innovative solutions
-</h3>
+  <!-- Subtle Anime Touch: High-quality Lofi Coding Animation -->
+  <img src="https://raw.githubusercontent.com/MaySreay/MaySreay/main/assets/lofi-coding.gif" width="450" alt="Professional Coding" style="border-radius: 10px;" />
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=junaid042&label=Profile%20views&color=0e75b6&style=flat" alt="junaid042" /> </p> -->
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&lines=Full+Stack+Engineer;OfficeJS+Specialist;Azure+DevOps+Expert;Problem+Solver" alt="Typing SVG" />
+  </h1>
+</div>
 
-- 🌱 I’m currently learning: **Everything That I like to learn**
+---
 
-- 💬 Ask me about: **React, OfficeJS, NodeJS, Azure DevOps**
+### ⚡ Executive Summary
+A specialized **Full-Stack Developer** focused on the **Microsoft Ecosystem**. I build high-performance web applications and bridge them with enterprise productivity tools via **OfficeJS** and **Azure Cloud**.
 
-- 📫 How to reach me: **junaid042@outlook.com**
+- 🔭 **Expertise:** Architecting complex Office Add-ins & VSTO solutions.
+- ☁️ **DevOps:** Streamlining deployments with **Azure Pipelines** & GitHub Actions.
+- 🛠️ **Philosophy:** Engineering clean, scalable code for complex business logic.
 
-- ⚡ Fun fact: **My favorite programming language is: “It depends.”**
+---
 
-<h3>Connect with me:</h3>
-<p>
-<a href="https://www.linkedin.com/in/m-junaid-bb848a29a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/m-junaid-bb848a29a/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22285621/m-junaid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="m-junaid" height="30" width="40" /></a>
-  <a href="https://www.upwork.com/freelancers/~01747b941f1b99af96?referrer_url_path=%2Fnx%2Fsearch%2Ftalent%2F" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXlXZKw_q7Ip-EuX-7kfTZ8cALsnKkkC1EDw&s" alt="Upwork" height="35" width="40" /></a>
-  <a href="https://www.fiverr.com/junaidazhar62" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_SbSw7K9dZxfJm28QWM0Lch1iqbhKTD0Uyw&s" alt="Fiverr" height="35" width="40"/></a>
-</p>
- 
+### 🛠️ Technical Arsenal
 
-<h3>🎯 Tech Stack & Tools:</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,cs,python,react,vue,dotnet,express,nestjs,django,fastapi&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=azure,githubactions,docker,postgres,mongodb,mysql,redis,postman&theme=dark" />
+</div>
 
-- Languages: JavaScript, TypeScript, Python, C#, HTML, CSS
-- Frameworks: React, Fluent UI, Vue.js, .NET (Core & VSTO), FastAPI, Django, Express.js, NestJS
-- DevOps: Azure DevOps, GitHub Actions, Docker, Git, Postman
-- Cloud & APIs: Microsoft Graph, SharePoint, OneDrive, Azure, REST, OAuth2, JWT
-- Databases: PostgreSQL, MySQL, MongoDB, Redis
-- Office Add-in Packaging: Manifest XML, Self-Signed Certificates, AppSource Submission
+---
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=junaid042&show_icons=true&locale=en&layout=compact" alt="junaid042" /></p>
+### 📊 Performance Metrics
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=junaid042&show_icons=true&theme=tokyonight&border_radius=10&title_color=00d2ff&icon_color=00d2ff" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=junaid042&layout=compact&theme=tokyonight&border_radius=10&title_color=00d2ff&text_color=ffffff" height="180" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=junaid042&show_icons=true&locale=en" alt="junaid042" /></p> -->
+---
+
+### 🤝 Strategic Connections
+<div align="center">
+  <a href="https://www.linkedin.com/in/m-junaid-bb848a29a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~01747b941f1b99af96"><img src="https://img.shields.io/badge/Upwork-60d91a?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="https://www.fiverr.com/junaidazhar62"><img src="https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+  <a href="mailto:junaid042@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" />
+  <br/>
+  <i>"My favorite programming language is: <b>'It depends.'</b>"</i>
+</div>
