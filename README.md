@@ -5,7 +5,7 @@
   <br/>
 
   <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;OfficeJS+Specialist;Azure+DevOps+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;OfficeJS+Specialist;Azure+DevOps+Architect" alt="Typing SVG" />
   </h1>
 
   <p>
