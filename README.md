@@ -22,7 +22,7 @@ I engineer high-performance solutions within the **Microsoft Ecosystem**, specia
 
 - 🛠️ **Expertise:** Advanced **Office Add-ins (OfficeJS)** and **VSTO** development.
 - ☁️ **DevOps:** Architecting CI/CD pipelines via **Azure DevOps** and **GitHub Actions**.
-- 🏗️ **Full-Stack:** Building scalable systems with **React, NestJS, and .NET Core**.
+- 🏗️ **Full-Stack:** Building scalable systems with **React, NextJS, and .NET Core**.
 
 ---
 
